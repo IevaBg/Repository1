@@ -9,7 +9,7 @@ public class SuperHero {
         int netWorth = 9000;
         double averageWorthPerYear = netWorth / (double) ageOfHero;
         float lifeExpectancyYears = 100000000.56f;
-        char currencyOfNetWorth = 'Y';
+        char currencyOfNetWorth = 'X';
         byte happinessLevel = 127;
         String heroPower1, heroPower2, heroPower3;
 
