@@ -6,8 +6,8 @@ public class Ieva {
         int b = (55+9) % 9;
         int c = 5 + 15 / 3 * 2 - 8 % 3;
 
-        System.out.println("a");
-        System.out.println("b");
-        System.out.println("c");
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
     }
 }
